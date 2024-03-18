@@ -80,7 +80,7 @@ def deleteStudent(student_id):
 
 #test cases you can use
     
-# getAllStudents()
-# addStudent('New', 'Student', 'newStudent@example.com', '2022-02-02')
-# updateStudentEmail(1, 'updatedEmail@example.com')
-# deleteStudent(2)
+#getAllStudents()
+#addStudent('New', 'Student', 'newStudent@example.com', '2022-02-02')
+#updateStudentEmail(1, 'updatedEmail@example.com')
+#deleteStudent(2)
