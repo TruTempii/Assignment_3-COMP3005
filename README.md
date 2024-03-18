@@ -2,6 +2,8 @@ Assignment 3 Q1 - COMP3005
 
 Ahraaz Supra - 101266714
 
+**Video: https://youtu.be/4qStYTnr2zw**
+
 Database Setup:
 
 1. Ensure that PostgreSQL is installed and running on your system.
