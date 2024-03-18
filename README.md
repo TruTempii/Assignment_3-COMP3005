@@ -2,7 +2,7 @@ Assignment 3 Q1 - COMP3005
 
 Ahraaz Supra - 101266714
 
-**Video: https://youtu.be/4qStYTnr2zw**
+**Video: https://youtu.be/KPH2j1VeDH0**
 
 Database Setup:
 
