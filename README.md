@@ -62,5 +62,7 @@ deleteStudent(2)
 Files:
 
 database.sql
+
 database.py
+
 README.txt
