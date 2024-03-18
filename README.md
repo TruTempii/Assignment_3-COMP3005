@@ -51,15 +51,19 @@ Available Functions:
 #test cases you can use
 
 #displays all student records 
+
 getAllStudents()
 
 #adds a new student
+
 addStudent('New', 'Student', 'newStudent@example.com', '2022-02-02')
 
 #updates a student's email
+
 updateStudentEmail(1, 'updatedEmail@example.com')
 
 #deletes a student record
+
 deleteStudent(2)
 
 Files:
