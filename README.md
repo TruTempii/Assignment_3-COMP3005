@@ -66,4 +66,4 @@ database.sql
 
 database.py
 
-README.txt
+README.md
